@@ -54,10 +54,10 @@ Here’s a quick peek at how the app looks:
 ![SignUp and Signin Page](https://github.com/codebyshivareddiee/brainly-secondbrain-webapp/blob/master/Screenshot1.png)
 
 ### 🧠 **Home Interface**
-![Home Interface](https://github.com/SUMITSUNWAL/Second-Brain/blob/c857eec0ffd6ba1cca90600175cb1a2921983815/Screenshot2.png?raw=true)
+![Home Interface](https://github.com/codebyshivareddiee/brainly-secondbrain-webapp/blob/master/Screenshot2.png)
 
 ### 🧳 **Add New Card – Modal Interface**
-![Add New Card – Modal Interface](https://github.com/SUMITSUNWAL/Second-Brain/blob/c857eec0ffd6ba1cca90600175cb1a2921983815/Screenshot3.png?raw=true)
+![Add New Card – Modal Interface](https://github.com/codebyshivareddiee/brainly-secondbrain-webapp/blob/master/Screenshot3.png)
 
 
 ---
